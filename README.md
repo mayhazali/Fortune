@@ -1,5 +1,7 @@
 # Fortune
 Java/Swing application
+https://replit.com/@MayAli3/Fortune?v=1
+
 
 # Inspiration
 I enjoyed reading through the Replit Creates prompts and was inspired by the community projects on Replit. I decided to use the "Tell someone their fortune" prompt to create a simple application that predicts users' fortune based on the sequence of numbers selected by them. To keep it interesting and mysterious, the same numbers selected a second time do not result in similar predictions.
