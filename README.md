@@ -1,0 +1,2 @@
+# Fortune
+Java/Swing application
